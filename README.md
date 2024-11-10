@@ -22,7 +22,6 @@ My first mission was at Tata Consultancy Services as a CyberSecurity SOC Analyst
 
 My journey into the tech cosmos began with a Bachelor's in Technology from Malla Reddy Engineering College, where I learned to speak fluent Python and Java—languages that computers understand better than humans, but hey, that's the point! As a student volunteer, I was part of the National Service Scheme, developing my personality through community service and working with Engineers Hub, the world's largest youth tech conference.
 
-# GOAL : Establish a successful tech business by leveraging innovative technologies and market opportunities.Enhance coding skills and stay updated with emerging tech trends.
-Continuously learn and adapt to drive business growth and sustainability.
+# GOAL : Establish a successful tech business by leveraging innovative technologies and market opportunities.Enhance coding skills and stay updated with emerging tech trends.Continuously learn and adapt to drive business growth and sustainability.
 
 [X](https://x.com/Susmitha1399) | 💼 [LinkedIn](https://www.linkedin.com/in/susmithagurram/)
